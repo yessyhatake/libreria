@@ -1,0 +1,12 @@
+INSERT INTO `compras` VALUES (1, 'José Miguel Rodríguez Sánchez', '1234567812345678', 'VISA', 2);
+INSERT INTO `compras` VALUES (2, 'Ana Alonso Muñoz', '8765432187654321', 'MASTERCARD', 5);
+INSERT INTO `compras` VALUES (3, 'Pablo Milán Novo', '9876543298765432', 'VISA ELECTRON', 5);
+INSERT INTO `compras` VALUES (4, 'Pedro Gualdo SanJuan', '1234567890123456', 'MASTERCARD', 9);
+INSERT INTO `compras` VALUES (5, 'Miguel Formosa Igual', '8527419685274196', 'VISA', 12);
+INSERT INTO `compras` VALUES (6, 'Alicia Sancho Menguado', '8564129985641299', 'VISA', 16);
+INSERT INTO `compras` VALUES (7, 'Pedra Lagos Sonado', '8529637485296374', 'VISA', 15);
+INSERT INTO `compras` VALUES (8, 'Javier Ernesto Céspedes Igualada', '4567891245678912', 'VISA', 14);
+INSERT INTO `compras` VALUES (9, 'Cristina Ramón Ramón', '9638524596385245', 'MASTERCARD', 2);
+INSERT INTO `compras` VALUES (10, 'Valeriana Feijoo Doblón', '8527416385274163', 'VISA ELECTRON', 3);
+INSERT INTO `compras` VALUES (11, 'John Smith', '5218546352185463', 'VISA', 19);
+INSERT INTO `compras` VALUES (12, 'Pedro Irles Merino', '8524569685245696', 'VISA', 14);

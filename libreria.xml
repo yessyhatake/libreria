@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<libro id="1">
+		<isbn>8403096860</isbn>
+		<titulo>Ligero De Equipaje: La Vida De Antonio Machado</titulo>
+		<autor>Gibson, Ian</autor>
+		<editorial>Aguilar</editorial>
+		<precio>29</precio>
+	</libro>
+	<libro id="2">
+		<isbn>8403097107</isbn>
+		<titulo>Milenio 3: El Libro</titulo>
+		<autor>Jiménez, Iker</autor>
+		<editorial>Aguilar</editorial>
+		<precio>19</precio>
+	</libro>
+	<libro id="3">
+		<isbn>8408043641</isbn>
+		<titulo>La Sombra Del Viento</titulo>
+		<autor>Ruiz Zafón, Carlos</autor>
+		<editorial>Editorial Planeta</editorial>
+		<precio>22</precio>
+	</libro>
+	<libro id="4">
+		<isbn>8408066269</isbn>
+		<titulo>Un Lugar Llamado Nada</titulo>
+		<autor>Tan, Amy</autor>
+		<editorial>Editorial Planeta</editorial>
+		<precio>22.5</precio>
+	</libro>
+	<libro id="5">
+		<isbn>8408067095</isbn>
+		<titulo>Milagro En Los Andes</titulo>
+		<autor>Parrado, Nando</autor>
+		<editorial>Editorial Planeta</editorial>
+		<precio>19</precio>
+	</libro>
+	<libro id="6">
+		<isbn>8408067192</isbn>
+		<titulo>El Método: Al Descubierto La Sociedad Secreta De Los Maestros De La Seducción</titulo>
+		<autor>Strauss, Neil</autor>
+		<editorial>Editorial Planeta</editorial>
+		<precio>21</precio>
+	</libro>
+	<libro id="7">
+		<isbn>8420469289</isbn>
+		<titulo>Crepúsculo</titulo>
+		<autor>Meyer, Stephenie</autor>
+		<editorial>Ediciones Alfaguara</editorial>
+		<precio>14.96</precio>
+	</libro>
+	<libro id="8">
+		<isbn>8420469955</isbn>
+		<titulo>Travesuras De La Niña Mala</titulo>
+		<autor>Vargas Llosa, Mario</autor>
+		<editorial>Ediciones Alfaguara</editorial>
+		<precio>19.5</precio>
+	</libro>
+	<libro id="9">
+		<isbn>842056998X</isbn>
+		<titulo>El Pintor De Batallas</titulo>
+		<autor>Pérez-Reverte, Arturo</autor>
+		<editorial>Ediciones Alfaguara</editorial>
+		<precio>19.5</precio>
+	</libro>
+	<libro id="10">
+		<isbn>8423337774</isbn>
+		<titulo>El Viaje A La Felicidad: Las Nuevas Claves Científicas</titulo>
+		<autor>Punset, Eduardo</autor>
+		<editorial>Ediciones Destino</editorial>
+		<precio>18</precio>
+	</libro>
+	<libro id="11">
+		<isbn>8425340039</isbn>
+		<titulo>La Catedral Del Mar</titulo>
+		<autor>Falcones De Sierra, Idelfonso</autor>
+		<editorial>Grijalbo</editorial>
+		<precio>19.9</precio>
+	</libro>
+	<libro id="12">
+		<isbn>8433908405</isbn>
+		<titulo>Seda</titulo>
+		<autor>Baricco, Alessandro</autor>
+		<editorial>Editorial Anagrama</editorial>
+		<precio>8</precio>
+	</libro>
+	<libro id="13">
+		<isbn>8433970925</isbn>
+		<titulo>Brooklyn Follies</titulo>
+		<autor>Auster, Paul</autor>
+		<editorial>Editorial Anagrama</editorial>
+		<precio>18</precio>
+	</libro>
+	<libro id="14">
+		<isbn>8482983709</isbn>
+		<titulo>El Evangelio De Judas</titulo>
+		<autor>VV.AA.</autor>
+		<editorial>National Geographic</editorial>
+		<precio>13</precio>
+	</libro>
+	<libro id="15">
+		<isbn>8484450341</isbn>
+		<titulo>El Poder Del Ahora</titulo>
+		<autor>Tolle, Eckhart</autor>
+		<editorial>Gaia Ediciones</editorial>
+		<precio>15</precio>
+	</libro>
+	<libro id="16">
+		<isbn>8484531570</isbn>
+		<titulo>La Verdadera Historia Del Club Bilderberg</titulo>
+		<autor>Estulin, Daniel</autor>
+		<editorial>Ediciones Del Bronce</editorial>
+		<precio>18</precio>
+	</libro>
+	<libro id="17">
+		<isbn>8489779856</isbn>
+		<titulo>Matanzas En El Madrid Republicano: Paseos, Checas, Paracuellos...</titulo>
+		<autor>Schlayer, Felix</autor>
+		<editorial>Altera</editorial>
+		<precio>19</precio>
+	</libro>
+	<libro id="18">
+		<isbn>8493437670</isbn>
+		<titulo>Miguel Duran: Del Cielo Al Abismo</titulo>
+		<autor>Galiacho, Juan Luis</autor>
+		<editorial>Nueva República</editorial>
+		<precio>20</precio>
+	</libro>
+	<libro id="19">
+		<isbn>8496231828</isbn>
+		<titulo>El Profesor</titulo>
+		<autor>McCourt, Frank</autor>
+		<editorial>Maeva</editorial>
+		<precio>18</precio>
+	</libro>
+	<libro id="20">
+		<isbn>8496431177</isbn>
+		<titulo>Yo, Maya Plisetskaya</titulo>
+		<autor>Plisetskaya, Maya</autor>
+		<editorial>Editorial Nerea</editorial>
+		<precio>32</precio>
+	</libro>
+</biblioteca>
